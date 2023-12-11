@@ -1,0 +1,89 @@
+<blog>
+  <journey>
+  <id>1</id>
+  <title>burj khalifa</title>
+  <city>dubai</city>
+  <bloger>atheer</bloger>
+  <imageurl>/Image/usa.jpg</imageurl>
+  <datetime>2019-09-24 06:00</datetime>
+  <detail>The magic of a Burj Khalifa visit begins the moment you step foot inside.
+ At the lounge located on the ground floor, be greeted with a warm cup of Arabic coffee accompanied with dates.
+ Watch interactive displays and learn all about the skyscraper and its construction as you anticipate your departure time in the tower’s record-breaking elevator.
+</detail>
+  <rate>0</rate>
+  </journey>
+  <journey>
+  <id>2</id>
+  <title>Hyde Park</title>
+  <city>london</city>
+  <bloger>aisha</bloger>
+  <imageurl>/Image/hydepark22.jpg</imageurl>
+  <datetime>2018-03-11  05:00</datetime>
+  <detail>Hyde Park is possibly the most famous park in London, and it is one of the largest.
+The park has historical significance, having hosted a number of demonstrations and protests including protests by the Suffragettes.
+The park is home to several memorial features, as well as two bodies of water, the most famous being the Serpentine.
+ Here you can go paddle-boating, see a number of swans, and take in a breath of fresh air in the center of the city. A must-visit.
+</detail>
+  <rate>0</rate>
+  </journey>
+  <journey>
+  <id>3</id>
+  <title>Shinjuku Gyoen garden</title>
+  <city>tokyo</city>
+  <bloger>sarah</bloger>
+  <imageurl>/Image/cherry.jpg</imageurl>
+  <datetime>2017-04-15  05:00</datetime>
+  <detail>This place is a must for park lovers.
+One of the largest and most popular parks in Tokyo, it has three types of gardens: Japanese, French and English.
+It’s one of the best places to enjoy the cherry blossoms as it has various types of this.
+Can also be awesome to visit in autumn when the leaves change.
+</detail>
+  <rate>0</rate>
+  </journey>
+  <journey>
+  <id>4</id>
+  <title>Matterhorn Mountain, Zermatt</title>
+  <city>switzerland</city>
+  <bloger>abeer</bloger>
+  <imageurl>/Image/ice.jpg</imageurl>
+  <datetime>2017-11-16  05:00</datetime>
+  <detail>The Matterhorn is one of the highest mountains in Switzerland but it really stands out for its unique shape and role in mountaineering history.
+The best and most scenic way to get here is by train, and once you arrive, all vehicles in the city are required to be battery-operated.
+It’s also fun to take a cable car ride in Zermatt to get to the other mountains for skiing, snowboarding, and hiking.
+</detail>
+  <rate>0</rate>
+  </journey>
+  <journey>
+  <id>5</id>
+  <title>Eiffel Tower</title>
+  <city>france</city>
+  <bloger>sarah</bloger>
+  <imageurl>/Image/Eiffel.jpg</imageurl>
+  <datetime>2017-04-15 05:00</datetime>
+  <detail>One of the most enchanting things to do in France is a visit to the Eiffel Tower in the early evening.
+ when the gentle lighting has a ethereal effect. Ascending the Eiffel Tower in the late afternoon until dusk
+  visitors will notice golden glows on the horizon change to amber hues
+From each level of the tower, the panoramas become even more spectacular as the sun goes down
+ with the city's monuments illuminated and the Seine River reflecting the stunning colors of sunset.
+Another bonus, every evening the Eiffel Tower is decked out with glittering lights that sparkle for five minutes on the hour.
+</detail>
+  <rate>0</rate>
+  </journey>
+   <journey>
+  <id>6</id>
+  <title>Seoul Tower</title>
+  <city>South korea</city>
+  <bloger>abeer</bloger>
+  <imageurl>/Image/Seoul Tower.jpg</imageurl>
+  <datetime>2018-09-11 06:00</datetime>
+  <detail>everyone visiting Seoul should go up in the city's iconic observation tower.
+   Its position almost on top of a mountain, plus the height of the tower itself, gets you almost 500 meters above sea level and the city below.
+    But leave some time to explore the surrounding mountain area.
+     The tower is near the top of Mount Namsan, and the entire area is Namsan Park, which is run by the city. There are miles of hiking trails to explore, all within a few minutes of downtown Seoul.
+</detail>
+  <rate>0</rate>
+  </journey>
+
+  <script src="/JavaScript/xmlLoader.js"></script>
+  
+</blog>
